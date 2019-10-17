@@ -38,22 +38,22 @@
 
 ## 二、完成顺序
 
-> * duckerjs-bin
+#### duckerjs-bin
 
 > 开发工具
 
-> * duckerjs-core
+#### duckerjs-core
 
 > duckerjs核心代码
 
-> * duckerjs-router
+#### duckerjs-router
 
 > 路由router，路由定制扩展
 
-> * duckerjs-logger
+#### duckerjs-logger
 
 > 日志功能自定义
 
-> * duckerjs-cluster
+#### duckerjs-cluster
 
 > 启动进程
