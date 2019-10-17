@@ -1,0 +1,30 @@
+{
+  "name": "duckerjs",
+  "version": "0.0.1",
+  "description": "基于koa2的约定式框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiyuze/duckerjs.git"
+  },
+  "keywords": [
+    "duckerjs",
+    "node",
+    "koa2",
+    "express",
+    "HTML"
+  ],
+  "author": "ruanguangguang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baiyuze/duckerjs/issues"
+  },
+  "homepage": "https://github.com/baiyuze/duckerjs#readme",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
